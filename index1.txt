@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>منصة الفنذك</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+            background-color: #f4f4f4;
+        }
+
+        h1, h2 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        
+        #about-us {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        #about-us p {
+            font-size: 1.1em;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <h1>مرحباً بك في منصة الفنذك!</h1>
+    <p>هذه هي الصفحة الأولى لمشروعنا.</p>
+
+    <section id="about-us">
+        <h2>من نحن</h2>
+        <p>نحن منصة الفنذك، مبادرةٌ إبداعيةٌ تهدف إلى ربط الفنانين والمصممين بالجمهور، وتقديم أعمالهم الفنية للعالم. نؤمن بأن الفن يغير الحياة، ونسعى لتوفير مساحة ملهمة لكل موهبة لتنمو وتزدهر.</p>
+    </section>
+
+</body>
+</html>
